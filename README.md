@@ -54,3 +54,12 @@ Here’s a little about me:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adham422&count_private=true" alt="Adham's GitHub Streak" width="400" />
 </p>
 
+---
+
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham422&layout=compact&hide_title=true&count_private=true&langs_count=6" alt="Adham's Most Used Languages" width="400" />
+</p>
+
+---
+
