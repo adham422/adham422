@@ -54,7 +54,7 @@ Here’s a little about me:
  
 </p>
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=adham422&count_private=true" alt="Adham's GitHub Streak" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adham422" alt="GitHub Streak" />
   </p>
 ---
 
