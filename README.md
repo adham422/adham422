@@ -4,10 +4,12 @@
 ---
 
 ### 💻 About Me
-- I am a Computer Science Student  
-- Frontend Web Developer  
-- React.js Developer  
-- Software Engineer  
+Here’s a little about me:
+
+- 🔰 **I am a Computer Science Student**  
+- 🖥️ **Frontend Web Developer**  
+- ⚛️ **React.js Developer**  
+- 🧑‍💻 **Software Engineer**  
 
 ---
 
@@ -53,11 +55,4 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adham422)
 </p>
 
----
 
-**Note:**  
-- Images are now contained within a centered layout, with icons resized to fit better across different devices.
-- Replaced some external image-based links with badge-style images for better responsiveness (such as LinkedIn, Facebook, etc.).
-- Stats and tools section has been cleaned up to maintain a neat and responsive layout.
-
-You can copy this into your `README.md` file. The new approach using badges and centered images will ensure the content looks good on both large and small screens. You can further tweak the layout depending on your preferences.
