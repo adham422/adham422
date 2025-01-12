@@ -51,9 +51,11 @@ Here’s a little about me:
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adham422&show_icons=true&locale=en&hide=prs&count_private=true" alt="Adham's GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adham422&count_private=true" alt="Adham's GitHub Streak" width="400" />
+ 
 </p>
-
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=adham422&count_private=true" alt="Adham's GitHub Streak" width="400" />
+  </p>
 ---
 
 ### 📊 Most Used Languages:
