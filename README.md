@@ -6,7 +6,7 @@
 ### 💻 About Me
 Here’s a little about me:
 
-- 🔰 **I am a Computer Science Student**  
+- 🔰 **I Graduate of Computer Science 2020 - 2024**  
 - 🖥️ **Frontend Web Developer**  
 - ⚛️ **React.js Developer**  
 - 🧑‍💻 **Software Engineer**  
