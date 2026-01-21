@@ -1,5 +1,7 @@
 # Hi 👋, I'm Adham Hashem  
-### I am a Computer Science student, Frontend Web Developer.
+### I am a graduate of Computer Science, Frontend Web Developer.
+#Grade : very Good.
+#Graduation project : Excellent.
 
 ---
 
